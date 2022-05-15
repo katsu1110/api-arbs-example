@@ -1,4 +1,4 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
   '@project-serum/anchor': ^0.20.1
@@ -677,7 +677,7 @@ packages:
       circular-json: 0.5.9
       eventemitter3: 4.0.7
       uuid: 8.3.2
-      ws: 7.5.6_bffff4271b89d628e8333ead80d3d8e8
+      ws: 7.5.6_x777ijy3rhlcr2bth2wybu6y5a
     optionalDependencies:
       bufferutil: 4.0.6
       utf-8-validate: 5.0.8
@@ -778,7 +778,7 @@ packages:
         optional: true
     dev: false
 
-  /ws/7.5.6_bffff4271b89d628e8333ead80d3d8e8:
+  /ws/7.5.6_x777ijy3rhlcr2bth2wybu6y5a:
     resolution: {integrity: sha512-6GLgCqo2cy2A2rjCNFlxQS6ZljG/coZfZXclldI8FB/1G3CCI36Zd8xy2HrFVACi8tfk5XrgLQEk+P0Tnz9UcA==}
     engines: {node: '>=8.3.0'}
     peerDependencies:
